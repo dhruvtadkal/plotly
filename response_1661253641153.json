@@ -1,0 +1,146 @@
+{
+  "No of species:": 65394,
+  "No of Observers:": 209361,
+  "No of Migratory Species:": {
+    "migratorystatus": {
+      "0": "Migratory-Local",
+      "1": "Migratory-Long-Distance",
+      "2": "Resident"
+    },
+    "Number of Migratory Species": {
+      "0": 3699,
+      "1": 4384,
+      "2": 57311
+    }
+  },
+  "IUCN Count:": {
+    "iucnstatus": {
+      "0": "Endangered",
+      "1": "Least Concern",
+      "2": "Near Threatened",
+      "3": "Vulnerable"
+    },
+    "No of Species by IUCN": {
+      "0": 5,
+      "1": 63866,
+      "2": 1389,
+      "3": 134
+    }
+  },
+  "SOIB Count:": {
+    "longtermstatus": {
+      "0": "Data Deficient",
+      "1": "Moderate Decline",
+      "2": "Moderate Decline",
+      "3": "Moderate Decline",
+      "4": "Moderate Decline",
+      "5": "Moderate Increase",
+      "6": "Moderate Increase",
+      "7": "Moderate Increase",
+      "8": "NA",
+      "9": "Stable",
+      "10": "Stable",
+      "11": "Stable",
+      "12": "Stable",
+      "13": "Stable",
+      "14": "Stable",
+      "15": "Strong Decline",
+      "16": "Strong Decline",
+      "17": "Strong Decline",
+      "18": "Strong Increase",
+      "19": "Strong Increase",
+      "20": "Strong Increase",
+      "21": "Uncertain",
+      "22": "Uncertain",
+      "23": "Uncertain",
+      "24": "Uncertain",
+      "25": "Uncertain"
+    },
+    "currentstatus": {
+      "0": "Uncertain",
+      "1": "Moderate Decline",
+      "2": "Strong Decline",
+      "3": "Strong Increase",
+      "4": "Uncertain",
+      "5": "Stable",
+      "6": "Strong Decline",
+      "7": "Uncertain",
+      "8": "NA",
+      "9": "Moderate Decline",
+      "10": "Moderate Increase",
+      "11": "Stable",
+      "12": "Strong Decline",
+      "13": "Strong Increase",
+      "14": "Uncertain",
+      "15": "Moderate Decline",
+      "16": "Strong Decline",
+      "17": "Uncertain",
+      "18": "Moderate Increase",
+      "19": "Strong Increase",
+      "20": "Uncertain",
+      "21": "Moderate Decline",
+      "22": "Moderate Increase",
+      "23": "Strong Decline",
+      "24": "Strong Increase",
+      "25": "Uncertain"
+    },
+    "No of Species by SoIB": {
+      "0": 68,
+      "1": 165,
+      "2": 1134,
+      "3": 311,
+      "4": 1515,
+      "5": 1719,
+      "6": 280,
+      "7": 466,
+      "8": 331,
+      "9": 6279,
+      "10": 2038,
+      "11": 7112,
+      "12": 6952,
+      "13": 3259,
+      "14": 18923,
+      "15": 17,
+      "16": 64,
+      "17": 143,
+      "18": 338,
+      "19": 1802,
+      "20": 2010,
+      "21": 1309,
+      "22": 116,
+      "23": 17,
+      "24": 70,
+      "25": 8956
+    }
+  },
+  "WLPA Count:": {
+    "wlpaschedule": {
+      "0": "Schedule-I",
+      "1": "Schedule-IV",
+      "2": "Schedule-V"
+    },
+    "No of Species by WLPA": {
+      "0": 6270,
+      "1": 57405,
+      "2": 1719
+    }
+  },
+  "Spread Across Years:": {
+    "observationyear": {
+      "0": 2020
+    },
+    "No of Species": {
+      "0": 65394
+    }
+  },
+  "Spread Across Months:": {
+    "observationmonth": {
+      "0": "February",
+      "1": "January"
+    },
+    "No of Species": {
+      "0": 29381,
+      "1": 36013
+    }
+  }
+}
